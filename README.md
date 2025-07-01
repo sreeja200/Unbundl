@@ -12,5 +12,4 @@ Responsive Web UI for Dental Consultation Booking — A modern, conversion-optim
 
 ##
 🌐 Live Demo: Visit my project on Live 
-- https://sreeja200.github.io/Edusree-Academy/
-- https://edusree-academy.netlify.app/
+- https://sreeja-clove.netlify.app/
